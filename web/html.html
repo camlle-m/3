@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML练习</title>
+  </head>
+  <body>
+    <h1>HTML练习</h1>
+    <hr />
+    这里面的内容能够被浏览器显示
+
+    <div>
+      <h2>区块元素</h2>
+      常用区块元素有：body、hX
+    </div>
+    <div>
+      <h2>内容组织元素</h2>
+      <p>常用的内容组织元素有：p、ol、ul、li</p>
+      <p>ol用来标记有序列表</p>
+      <ol>
+        <li>第一节</li>
+        <li>第二节</li>
+        <li>第三节</li>
+      </ol>
+      <p>ul用来标记无序列表</p>
+      <ul>
+        <li>笔记本</li>
+        <li>夹子</li>
+        <li>钢笔</li>
+      </ul>
+      <p>
+        在VS
+        Code中，安装扩展htmltagwrap后，可以先选择内容，然后按alt+W键，快速进行内容的标记
+      </p>
+    </div>
+    <div>
+      <h2>文本语义元素</h2>
+      <p>常用的文本语义元素有：a、span、br</p>
+      <h3>a元素用来标记超级链接</h3>
+      <p>
+        <a href="http://www.nrta.gov.cn/art/2023/4/27/art_113_64140.html"
+          >2022年全国广播电视行业统计公报</a
+        >
+      </p>
+    </div>
+    <div>
+      <h2>表单元素</h2>
+      <p>常用的表单元素有：form、input、button</p>
+      <form action="http://www.bing.com/search" method="get">
+        <input type="search" name="q" />
+        <button type="submit">开始</button>
+      </form>
+      <form
+        action="https://search.douban.com/movie/subject_search"
+        method="get"
+      >
+        <input type="search" name="search_text" />
+        <button type="submit">开始</button>
+      </form>
+    </div>
+    <div>
+      <h2>嵌入内容元素</h2>
+      <p>常用的嵌入内容元素有：img、iframe、svg、video等</p>
+      <img
+        src="https://www.xbmu.edu.cn/images/2023niankaixuedianli.JPG"
+        alt="西北民族大学2023军训"
+        width="500px"
+      />
+      <div>
+        <iframe
+          src="https://www.bilibili.com"
+          frameborder="0"
+          width="50%"
+          height="500px"
+        ></iframe>
+      </div>
+      <iframe
+        src="//player.bilibili.com/player.html?aid=276779696&bvid=BV16F411279a&cid=1288939008&p=1"
+        scrolling="no"
+        border="0"
+        frameborder="no"
+        framespacing="0"
+        allowfullscreen="true"
+        width="50%"
+        height="500px"
+      >
+      </iframe>
+    </div>
+    <div>
+      <h2>表格元素</h2>
+      <p>常用的表格元素有：table、tr、td、th</p>
+      <table border="1">
+        <tr>
+          <th>序号</th>
+          <th>姓名</th>
+          <th>仓库地址</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>小米</td>
+          <td>https://github.com/xxx/xxx</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>小米</td>
+          <td>https://github.com/xxx/xxx</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>小米</td>
+          <td>https://github.com/xxx/xxx</td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
