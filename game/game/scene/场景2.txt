@@ -1,0 +1,5 @@
+changeBg:ç©ºè¢­1.jpg;
+:2023年10月10日凌晨，以色列军队再次空袭加沙地带的多处目标，加沙地带周边多个定居点拉响警报。 -fontSize=default;
+:加沙地带遭到以色列空袭 -v1.wav -fontSize=default -right;
+changeBg:ç©ºè¢­2.jpg -next;
+changeBg:ç©ºè¢­3.jpg -next;

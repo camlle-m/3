@@ -1,0 +1,4 @@
+changeBg:å²çª1.jpg -next;
+:以色列警察与巴勒斯坦人发生冲突 -fontSize=default -left;
+changeBg:å²çª2.jpg -next;
+changeBg:å²çª3.jpg -next;

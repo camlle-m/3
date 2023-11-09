@@ -1,0 +1,5 @@
+Game_name:我的GALGame！;
+Game_key:fedbda1edd11758;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:ba.jpg;

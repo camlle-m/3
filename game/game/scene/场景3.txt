@@ -1,0 +1,5 @@
+changeBg:æç»­1.jpg -next;
+:加沙地带持续遭到以色列空袭 -v1.wav -fontSize=default -left;
+:加沙地带城市遭空袭后升起浓烟 -fontSize=default;
+changeBg:æç»­2.jpg -next;
+changeBg:æç»­3.jpg -next;

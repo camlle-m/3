@@ -1,0 +1,7 @@
+intro:这是一个在和平世界下的战争故事|2023年巴以军事冲突爆发|如果你在一个战乱国家你能活下来吗？|在这里开启属于你的故事吧！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:b3.jpg -next -duration=3 -transform={"alpha":1,"position":{"x":"10","y":"10"},"scale":{"x":1,"y":1},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0};
+bgm:s_Title.mp3;
+changeFigure:stand.png -left -id=右侧 -next;
+:2023年犹太人住棚节期间，数千名以色列定居者强行进入了位于东耶路撒冷的伊斯兰教第三大圣寺—阿克萨清真寺。|10月7日，巴勒斯坦伊斯兰抵抗运动（哈马斯）以“以色列人亵渎阿克萨清真寺”为由，对以色列发动了大规模火箭弹袭击。随后，巴勒斯坦伊斯兰圣战组织（杰哈德）也宣布加入针对以色列的军事行动。|同日，以色列国防军宣布进入战争状态，并对哈马斯发起了名为“铁剑”的军事行动，开始对加沙地带哈马斯目标发动空袭。次日，黎巴嫩真主党的军事组织向以色列占领的萨巴阿农场内发射了火箭弹和炮弹，以声援“巴勒斯坦抵抗运动”。 -v1.wav -fontSize=default -left -figureId=233;
+changeBg:R-C.jpg -next -duration=3 -transform={"alpha":1,"position":{"x":"10","y":"10"},"scale":{"x":1,"y":1},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0};
+choose:冲突开始:场景1.txt|空袭发生:场景2.txt|持续空袭:场景3.txt;
